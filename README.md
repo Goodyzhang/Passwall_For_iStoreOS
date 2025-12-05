@@ -1,0 +1,2 @@
+# Passwall_For_iStoreOS
+配置Passwall2至iStoreOS的试错与实践
